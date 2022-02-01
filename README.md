@@ -1,23 +1,19 @@
 # La-Criptografia
 Com executar els xifratges codificats amb Python?
 
-1. Aneu a https://www.python.org/downloads/ i descarregueu-vos l'última versió per
-al Sistema Operatiu que utilitzeu.
+1. Descarregueu-vos l'última versió de python3 disponible (https://www.python.org/downloads per a Windows)
+   La majoria de distribucions de Linux venen amb python3 preinstal·lat
 
-2. IMPORTANT! 
+2. INSTAL·LACIÓ AMB WINDOWS
 En la primera finestra de l'instal·lador, marqueu la casella que
-diu "Add Python to PATH". D'aquesta manera, si entreu en la consola Windows,
-no haureu d'especificar l'adreça del programari.
+diu "Add Python to PATH". D'aquesta manera, s'afegeix python a la variable $PATH.
 
-3. Si voleu crear la gràfica de la funció phi (mòdul matplotlib.pyplot), cal escriure 
-en la consola CMD el següent text (sense cometes): "python -m pip install -U matplotlib"
+3. Si voleu crear la gràfica de la funció phi (mòdul matplotlib.pyplot), cal instal·lar
+   matplotlib amb pip: "python -m pip install -U matplotlib"
 
-3. Després de la instal·lació, obriu Xifratges.py amb qualsevol editor de codi
-que tingueu a l'abast. Personalment, m'agrada Sublime Text (https://www.sublimetext.com/).
+3. Després de la instal·lació, obriu Xifratges.py amb qualsevol editor de text
+   que tingueu a l'abast. (Per exemple Sublime text, Vim ó Atom)
 
 4. Si voleu executar una funció f que té com a argument un valor a,
-escriviu al final del codi "print(f(a))". Llavors, podreu executar el codi
-(RUN o BUILD).
-
-5. No cal entrar dins el codi RSA.py per a executar-lo. Simplement obriu
-el fitxer amb el programari Python i apareixerà la vostra consola.
+   escriviu al final del codi "print(f(a))". Després d'editar el codi font
+   podeu executar el programa amb "python3 Xifratges.py"
