@@ -8,8 +8,7 @@ Com executar els xifratges codificats amb Python?
 En la primera finestra de l'instal·lador, marqueu la casella que
 diu "Add Python to PATH". D'aquesta manera, s'afegeix python a la variable $PATH.
 
-3. Si voleu crear la gràfica de la funció phi (mòdul matplotlib.pyplot), cal instal·lar
-   matplotlib amb pip: "python -m pip install -U matplotlib"
+3. Cal instal·lar matplotlib amb pip: "python -m pip install -U matplotlib"
 
 3. Després de la instal·lació, obriu Xifratges.py amb qualsevol editor de text
    que tingueu a l'abast. (Per exemple Sublime text, Vim ó Atom)
