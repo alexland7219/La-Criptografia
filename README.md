@@ -1,5 +1,5 @@
 # La-Criptografia
-Com executar els xifratges codificats amb Python?
+Com executar els codis Python?
 
 1. Descarregueu-vos l'última versió de python3 disponible (https://www.python.org/downloads per a Windows)
    La majoria de distribucions de Linux venen amb python3 preinstal·lat
