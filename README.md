@@ -10,7 +10,7 @@ Amb Microsoft Windows, serà millor descarregar-se tot en un fitxer .zip
 1. Descarregueu-vos l'última versió de python3 disponible (https://www.python.org/downloads per a Microsoft Windows)
    La majoria de distribucions de GNU/Linux venen amb python3 preinstal·lat
 
-2. INSTAL·LACIÓ AMB EL SISTEMA OPERATIU PRIVATIU DE MICROSOFT WINDOWS: 
+2. INSTAL·LACIÓ AMB MICROSOFT WINDOWS: 
 En la primera finestra de l'instal·lador, marqueu la casella que
 diu "Add Python to PATH". D'aquesta manera, s'afegeix python a la variable $PATH.
 
